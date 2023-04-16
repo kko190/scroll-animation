@@ -1,0 +1,17 @@
+.bisque {
+  padding-top: 25px;
+  border-radius: 10px;
+  background: lightsalmon;
+  height: 1000px;
+  margin-top: 400px;
+}
+.img {
+  float: right;
+  width: 400px;
+  position: sticky;
+  top: 70px;
+}
+.text {
+  float: left;
+  width: 400px;
+}
